@@ -1,0 +1,17 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\bin\Debug\net7.0\CONSUMIR API - C# - CONSOLA.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\bin\Debug\net7.0\CONSUMIR API - C# - CONSOLA.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\bin\Debug\net7.0\CONSUMIR API - C# - CONSOLA.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\bin\Debug\net7.0\CONSUMIR API - C# - CONSOLA.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\bin\Debug\net7.0\CONSUMIR API - C# - CONSOLA.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\obj\Debug\net7.0\CONSUMIR API - C# - CONSOLA.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\obj\Debug\net7.0\CONSUMIR API - C# - CONSOLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\obj\Debug\net7.0\CONSUMIR API - C# - CONSOLA.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\obj\Debug\net7.0\CONSUMIR API - C# - CONSOLA.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\obj\Debug\net7.0\CONSUMIR API - C# - CONSOLA.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\obj\Debug\net7.0\CONSUMIR API - C# - CONSOLA.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\obj\Debug\net7.0\refint\CONSUMIR API - C# - CONSOLA.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\obj\Debug\net7.0\CONSUMIR API - C# - CONSOLA.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\obj\Debug\net7.0\CONSUMIR API - C# - CONSOLA.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\obj\Debug\net7.0\ref\CONSUMIR API - C# - CONSOLA.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\CONSUMIR API - C# - CONSOLA\obj\Debug\net7.0\CONSUMIR API - C# - CONSOLA.csproj.CopyComplete

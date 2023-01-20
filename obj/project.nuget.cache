@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBsIJ2qvdVODke2XpwGvzv6NQ4+z+wP2tXfO5ptX92uAlgpcsbQRDL3mpTsDFmEODIwT1GIc4xKOAQrIR/AgOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ewine\\OneDrive\\Escritorio\\C#\\CONSUMIR API - C# - CONSOLA\\CONSUMIR API - C# - CONSOLA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ewine\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
